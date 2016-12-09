@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/show_all"
+        android:title="@string/Show_all"/>
+    <item
+        android:id="@+id/refresh"
+        android:title="@string/Refresh"
+        android:icon="@drawable/loading"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/about"
+        android:title="@string/About"/>
+    <item
+        android:id="@+id/menu_settings"
+        android:title="Settings"
+        app:showAsAction="always"
+        android:icon="@drawable/settings" />
+    <item
+        android:id="@+id/exit"
+        android:title="@string/Exit"/>
+</menu>
+

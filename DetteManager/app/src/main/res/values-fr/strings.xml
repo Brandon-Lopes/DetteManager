@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dette Manager</string>
+    <string name="Summary">Résumé des dettes</string>
+    <string name="I_owe_them">Je dois:</string>
+    <string name="They_owe_me">Ils me doivent:</string>
+    <string name="Show_all">Afficher tous</string>
+    <string name="Details">Détails</string>
+    <string name="Detail_Page">Page détail</string>
+    <string name="Add_Page">Page d\'ajout</string>
+    <string name="Back">Retour</string>dl_successfully
+    <string name="dl_successfully">Votre fichier JSON a été téléchargé avec succès !</string>
+    <string name="Refresh">Chargement de la page ...</string>
+    <string name="Yes">Oui</string>
+    <string name="No">Non</string>
+    <string name="Portfolio">https://brandonlopespinho.wordpress.com/</string>
+    <string name="WarningBox">ATTENTION ! Vous allez être rediriger vers votre navigateur !</string>
+    <string name="About">A propos</string>
+    <string name="Notification_title_online">Vous êtes connecté à internet  !</string>
+    <string name="Notification_content_online">Les données ont été téléchargées avec succès !</string>
+    <string name="Notification_title_offline">Vous n\'êtes pas connecté à internet !</string>
+    <string name="Notification_content_offline">Ces données peuvent être obsolètes.</string>
+    <string name="Exit">Quitter</string>
+    <string name="Title_Color">Couleur des textes (Retournez en arrière et rechargez la page pour voir les modifications)</string>
+    <string name="Title_Color1">Couleur: ils me doivent</string>
+    <string name="Title_Color2">Couleur: je dois</string>
+    <string name="Summary_Color1">C\'est la couleur du texte afficher quand une personne vous dois de l\'argent.</string>
+    <string name="Summary_Color2">C\'est la couleur du texte afficher quand vous devez de l\'argent à une personne.</string>
+    <string name="Default">Défaut</string>
+    <string name="Blue">Bleu</string>
+    <string name="Violet">Violet</string>
+    <string name="Grey">Gris</string>
+    <string name="Orange">Orange</string>
+    <string name="Yellow">Jaune</string>
+    <string name="Pink">Rose</string>
+    <string name="All_debts">Ensemble des dettes</string>
+    <string name="Partial_debts">Dettes triées</string>
+    <string name="Settings">Paramètres</string>
+
+</resources>

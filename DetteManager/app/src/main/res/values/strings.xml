@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Debt Manager</string>
+    <string name="Summary">Debt summary</string>
+    <string name="I_owe_them">I owe them:</string>
+    <string name="They_owe_me">They owe me:</string>
+    <string name="Show_all">Show all</string>
+    <string name="Details">Details</string>
+    <string name="Detail_Page">Detail page</string>
+    <string name="Add_Page">Add page</string>
+    <string name="Back">Back</string>
+    <string name="dl_successfully">Your JSON file hase been downloaded successfully !</string>
+    <string name="Refresh">Refreshing the page ...</string>
+    <string name="Yes">Yes</string>
+    <string name="Portfolio">https://brandonlopespinhoen.wordpress.com/</string>
+    <string name="WarningBox">WARNING ! You are going to be redirected to your browser app !</string>
+    <string name="About">About</string>
+    <string name="Notification_title_online">Internet connexion is on !</string>
+    <string name="Notification_content_online">Data downladed successfully !</string>
+    <string name="Notification_title_offline">Internet connexion is off !</string>
+    <string name="Notification_content_offline">This data might be obsolete.</string>
+    <string name="Exit">Exit</string>
+    <string name="Title_Color">Text color (Go back and refresh the page to set the color changes)</string>
+    <string name="Title_Color1">Color: they owe me</string>
+    <string name="Title_Color2">Color: I owe them</string>
+    <string name="Summary_Color1">This is the color displayed when someone owes you money.</string>
+    <string name="Summary_Color2">This is the color displayed when you owe money to someone.</string>
+    <string name="Default_String1">#00cc00</string>
+    <string name="Default_String2">#ff0000</string>
+    <string name="Default">Default</string>
+    <string name="Blue">Blue</string>
+    <string name="Violet">Violet</string>
+    <string name="Grey">Grey</string>
+    <string name="Orange">Orange</string>
+    <string name="Yellow">Yellow</string>
+    <string name="Pink">Pink</string>
+    <string name="All_debts">All debts</string>
+    <string name="Partial_debts">Sorted debts</string>
+    <string name="Settings">Settings</string>
+
+</resources>

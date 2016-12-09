@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="textcolor1">
+        <item name="Default">@string/Default</item>
+        <item name="Blue">@string/Blue</item>
+        <item name="Violet">@string/Violet</item>
+        <item name="Grey">@string/Grey</item>
+    </string-array>
+    <string-array name="textcolorvalue1">
+        <item name="Default">#00cc00</item>
+        <item name="Blue">#3366ff</item>
+        <item name="Violet">#9900ff</item>
+        <item name="Grey">#666699</item>
+    </string-array>
+
+    <string-array name="textcolor2">
+        <item name="Default">@string/Default</item>
+        <item name="Orange">@string/Orange</item>
+        <item name="Yellow">@string/Yellow</item>
+        <item name="Pink">@string/Pink</item>
+    </string-array>
+    <string-array name="textcolorvalue2">
+        <item name="Default">#ff0000</item>
+        <item name="Orange">#ff6600</item>
+        <item name="Yellow">#ffff00</item>
+        <item name="Pink">#ff0066</item>
+    </string-array>
+</resources>

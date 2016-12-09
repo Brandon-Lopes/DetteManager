@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/Title_Color">
+        <ListPreference
+            android:key="Color_1"
+            android:entries="@array/textcolor1"
+            android:title="@string/Title_Color1"
+            android:entryValues="@array/textcolorvalue1"
+            android:defaultValue="@string/Default_String1"
+            android:summary="@string/Summary_Color1" />
+
+        <ListPreference
+            android:key="Color_2"
+            android:entries="@array/textcolor2"
+            android:title="@string/Title_Color2"
+            android:entryValues="@array/textcolorvalue2"
+            android:defaultValue="@string/Default_String2"
+            android:summary="@string/Summary_Color2" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
