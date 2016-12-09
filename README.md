@@ -1,6 +1,6 @@
 # DetteManager
 Mobile project 4AINT ESIEA.
-Done by Brandon PINHO-LOPES and Maxime PAULOIN.
+Done by Brandon PINHO-LOPES and Maxime PAULOIN. Teacher: M. Ferhah.
 
 The subject was free as long as the following instruction were satisfied:
 - Localization ressources (French and English),
