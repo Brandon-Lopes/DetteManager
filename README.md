@@ -13,4 +13,4 @@ This project is a project deling with debts management. Basically, for now the a
     - only money that people owe you,
 - change the colors of the text in the settings (preferences are saved),
 - see the portfolio of one of the student who have made the app,
-- leave the app
+- leave the app.
