@@ -14,6 +14,8 @@ The subject was free as long as the following instruction were satisfied:
 - Within your app: Launch another app (examples : browser, maps, phone…),
 - Display the downloaded data in a list (ListView).
 
+All these instructions are satisfied.
+
 This application is dealing with debts management. Basically, the application allows to:
 - Download a JSON file on a webserver and save it on the smartphone,
 - Display the data of the saving file (so if you have not internet, it will display the privous download file and it re-download the file everytime you have internet connexion),
