@@ -61,7 +61,6 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        //android.support.v7.app.ActionBar actionBar = getSupportActionBar();
         switch (item.getItemId()) {
             case R.id.refresh:
                 Toast.makeText(this, getResources().getString(R.string.Refresh), Toast.LENGTH_SHORT).show();
@@ -72,8 +71,6 @@ public class MainActivity extends AppCompatActivity {
             case R.id.menu_settings:
                 Intent IntentSettings = new Intent(MainActivity.this, SettingsActivity.class);
                 startActivity(IntentSettings);
-                /*actionBar.setHomeButtonEnabled(true);
-                actionBar.setDisplayHomeAsUpEnabled(true);*/
                 break;
 
             case R.id.show_all:
